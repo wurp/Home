@@ -1,4 +1,5 @@
-git@github.com:wurp/scripts.git	~/bin
+git@github.com:wurp/scripts.git
+git@github.com:wurp/websites
 git@github.com:wurp/vox_mundi.git
 git@github.com:wurp/rabin-tool.git
 git@github.com:wurp/Table-Roller.git
