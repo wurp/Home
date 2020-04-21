@@ -23,4 +23,7 @@ do
   else
     ln -s $PWD/$reponame ~/projects/$reponame
   fi
+
+  echo
+  echo
 done
